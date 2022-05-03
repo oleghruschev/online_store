@@ -1,3 +1,3 @@
 export const Device = () => {
-  return null
+  return <h1>Device</h1>
 }

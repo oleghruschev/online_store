@@ -1,3 +1,3 @@
 export const Auth = () => {
-  return null
+  return <h1>Auth</h1>
 }

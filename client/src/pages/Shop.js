@@ -1,3 +1,3 @@
 export const Shop = () => {
-  return null
-}
+  return <h1>Shop</h1>;
+};
