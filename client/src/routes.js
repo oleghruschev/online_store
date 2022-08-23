@@ -8,8 +8,8 @@ import {
 } from "./utils/consts";
 import { Admin } from "./pages/Admin";
 import { Basket } from "./pages/Basket";
-import { Shop } from "./pages/Shop";
-import { Auth } from "./pages/Auth";
+import Shop from "./pages/Shop";
+import Auth from "./pages/Auth";
 import { Device } from "./pages/Device";
 
 export const authRoutes = [

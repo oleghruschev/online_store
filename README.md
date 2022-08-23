@@ -1,3 +1,7 @@
-Связь один ко многим - one-to-many
-Связь один ко одному - one-to-one
-Связь много ко многим - many-to-many
+## Video
+https://www.youtube.com/watch?v=H2GCkRF9eko
+
+## Source
+https://github.com/utimur/online-store-full-course
+
+Stop: 1:45:20
